@@ -11,10 +11,6 @@
 Comprehensive exploratory data analysis on **4.58 million FoodPanda orders** in Taiwan over **89 days**.  
 The project uncovers **customer ordering patterns**, identifies high-performing cuisines/vendors, highlights data quality issues, and delivers **actionable marketing & operational strategies** for FoodPanda and partner restaurants.
 
-**Team (Room 5)**  
-- Alex Wong  
-- Michelle Chan  
-- Joanne Tsang
 
 ---
 
