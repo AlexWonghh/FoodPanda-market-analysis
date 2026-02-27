@@ -1,7 +1,7 @@
 # FoodPanda Taiwan – Customer Behavior & Marketing Strategy Analysis
 
 **Data Analysis | Marketing Insights | Python Visualization**  
-**Group Project (Room 5)** – Final Presentation (60 slides)
+**Group Project** 
 
 
 ---
