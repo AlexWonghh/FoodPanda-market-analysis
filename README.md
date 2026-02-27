@@ -104,3 +104,39 @@ The project uncovers **customer ordering patterns**, identifies high-performing 
 ---
 
 ## 📁 Repository Structure
+
+---
+FoodPanda-Taiwan-Analysis/
+├── FoodPanda project.pdf          # Full 60-slide presentation
+├── notebooks/                     # Jupyter notebooks (analysis code)
+## 🚀 How to Explore
+
+1. Open **`FoodPanda project.pdf`** for the full visual presentation  
+2. Run the Jupyter notebooks in `/notebooks` to reproduce all charts and insights  
+3. Check the final slides (46–60) for **Summaries & Strategic Planning**
+
+---
+
+## 🔗 Connect & Portfolio
+
+This project is part of my **Data Analyst Portfolio**.  
+→ [Alex Wong Portfolio Website](https://alexwonghh.github.io/)  
+→ [LinkedIn](https://www.linkedin.com/in/alex-wong-059304230)  
+→ [GitHub](https://github.com/AlexWonghh)
+
+**Open to entry-level Data Analyst / Business Intelligence roles** (Hong Kong & remote).  
+Feel free to reach out if you’d like to discuss the project, data, or potential collaboration!
+
+---
+
+**Last Updated**: February 2026  
+**Made with ❤️ in Hong Kong** | Taiwan-focused analysis
+
+---
+
+**Would you like me to also create:**
+- A shorter 1-page project summary (for LinkedIn/GitHub profile)
+- Jupyter notebook header / title slide version
+- Or add actual chart images to the README?
+
+Just say the word and I’ll generate it instantly! 🚀
